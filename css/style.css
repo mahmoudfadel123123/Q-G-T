@@ -282,7 +282,7 @@ a:focus {
 .carousel {
     position: relative;
     width: 100%;
-    height: calc(120vh - 170px);
+    height: calc(150vh - 190px);
     margin: 0 auto;
     text-align: center;
     overflow: hidden;
